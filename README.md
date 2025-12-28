@@ -12,7 +12,7 @@ This repository contains end-to-end examples of agentic systems: tool-using LLMs
 Want practical agent code you can run today? Start here.
 
 ## Gemini
-- 1)  [Build an Itinerary Agent with Gemini (step-by-step)](https://www.linkedin.com/pulse/gems-your-personalized-ai-agents-gemini-phanindra-panthagani-720bc)
+- 1)  [Build an Itinerary Agent with Gemini (step-by-step)](https://github.com/PhanindraPanthagani/GenerativeAI_AgentsDeployed/blob/main/Gemini/1_ItineraryAgentGem.md)
 
 ## ChatGPT
 
