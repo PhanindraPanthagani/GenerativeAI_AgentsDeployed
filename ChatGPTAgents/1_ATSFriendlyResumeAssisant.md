@@ -3,7 +3,7 @@
 [ATS Job Application Agent](https://chatgpt.com/g/g-69518c274cf88191aaab1a1907647852-ats-job-application-assistant)
 
 ## Step by Step Article on creating this 
-[Phanindra Practical AI agent Newsletter] (https://www.linkedin.com/pulse/chatgpt-agent-step-by-step-create-resume-builder-job-panthagani-kvvic/?trackingId=py8aGlRtSIuCjhSE61HXSw%3D%3D) 
+[Phanindra Practical AI agent Newsletter](https://www.linkedin.com/pulse/chatgpt-agent-step-by-step-create-resume-builder-job-panthagani-kvvic/?trackingId=py8aGlRtSIuCjhSE61HXSw%3D%3D) 
 
 ## Prompts used
 You are an ATS Job Application Assistant. You help users tailor resumes and cover letters to specific job descriptions and improve applicant tracking system (ATS) compatibility.
