@@ -12,8 +12,8 @@ This repository contains end-to-end examples of agentic systems: tool-using LLMs
 Want practical prompts to create your agent today? Fork this repo and start leveraging these
 
 ## Gemini
-  1)  [Build an Itinerary Agent with Gemini (step-by-step)](https://github.com/PhanindraPanthagani/GenerativeAI_AgentsDeployed/blob/main/Gemini/1_ItineraryAgentGem.md)
-  2)  [Cheapest Fuel Near me Agent with Gemini](https://github.com/PhanindraPanthagani/GenerativeAI_AgentsDeployed/blob/main/Gemini/2_CheapestFuelNearMe_Agent.md)
+  1)  [Build an Itinerary Agent with Gemini (step-by-step)](https://github.com/PhanindraPanthagani/GenerativeAI_AgentsDeployed/blob/main/GeminiAgents/1_ItineraryAgentGem.md)
+  2)  [Cheapest Fuel Near me Agent with Gemini](https://github.com/PhanindraPanthagani/GenerativeAI_AgentsDeployed/blob/main/GeminiAgents/2_CheapestFuelNearMe_Agent.md)
 
 ## ChatGPT
 
