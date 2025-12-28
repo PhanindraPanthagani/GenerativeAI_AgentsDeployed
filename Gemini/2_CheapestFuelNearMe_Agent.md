@@ -10,6 +10,10 @@ Use Google Maps data and Google data to achieve this .
 
 Share the result in a tabular format 
 
+## AI Agent link you can try : 
+
+[CheapestFuelGem](https://gemini.google.com/gem/1SAt04PRy4BUswKebb614LEguPu0RCvVI?usp=sharing)
+
 
 
  ## Description : 
