@@ -17,6 +17,8 @@ Want practical prompts to create your agent today? Fork this repo and start leve
 
 ## ChatGPT
 
+3) [ATS Friendly resume bullets assistant](https://github.com/PhanindraPanthagani/GenerativeAI_AgentsDeployed/blob/main/ChatGPTAgents/1_ATSFriendlyResumeAssisant.md)
+4) 
 ### Included in this repo
 - 🧠 Agent templates: single-agent, multi-agent, supervisor–worker, router
 - 🛠️ Tooling patterns: function calling, RAG, memory, retries, budgets, caching
